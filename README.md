@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pech-crypto/Pech-crypto/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pech-crypto/Pech-crypto/snake.svg" alt="Snake animation" />
 
 ###
